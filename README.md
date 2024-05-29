@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ThaiMinhNguyen
 - 👀 I’m interested in learning code
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Dart
 - 📫 How to reach me ...
 
 <!---
